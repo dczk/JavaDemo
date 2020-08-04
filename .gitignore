@@ -1,0 +1,4 @@
+# Project exclude paths
+/web/WEB-INF/classes/
+.idea
+*.iml
